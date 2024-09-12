@@ -1691,9 +1691,9 @@ textLabel.ZIndex = 2  -- main text is on top
 
 -- Create the tool
 local tool = Instance.new("Tool")
-tool.Name = "Ravage"  -- Updated tool name
+tool.Name = "flexworks"  -- Updated tool name
 tool.RequiresHandle = false  -- No handle required
-tool.ToolTip = "Ravaging my way outta here!"
+tool.ToolTip = "dancing thing flexworks"
  
 -- Insert the tool into the player's backpack
 tool.Parent = game.Players.LocalPlayer.Backpack
